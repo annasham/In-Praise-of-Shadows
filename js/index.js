@@ -121,7 +121,7 @@ function startTime() {
   }
   if (h=="18"){
     document.getElementById('body').style.backgroundColor = "#626262";
-    document.getElementById("test").style.color = "black";
+    document.getElementById("test").style.color = "#474747";
     document.getElementById('afternoon').innerHTML = "PM";
   }
   if (h=="19"){
